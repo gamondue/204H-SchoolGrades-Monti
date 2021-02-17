@@ -1,4 +1,5 @@
 ﻿using System;
+using static System.Console;
 
 namespace Prova
 {
@@ -6,7 +7,9 @@ namespace Prova
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Prova!");
+            WriteLine("Prova!");
+            WriteLine("Buongiorno Prof");
+            ReadKey();
         }
     }
 }
