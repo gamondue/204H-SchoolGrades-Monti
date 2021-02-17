@@ -6,7 +6,7 @@ namespace Prova
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Prova!");
+            Console.WriteLine("Prova10!");
         }
     }
 }
