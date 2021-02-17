@@ -5,8 +5,7 @@ namespace Prova
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Salve, Manuel Baldoni!");
+            Console.WriteLine("Prova di Casadei e Manuel Baldoni!");
         }
     }
 }
